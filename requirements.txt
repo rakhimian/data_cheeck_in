@@ -1,0 +1,15 @@
+fastapi[all]~=0.110.1
+requests
+pydantic~=2.6.4
+uvicorn
+pytest~=8.1.1
+sqlalchemy~=2.0.29
+passlib~=1.7.4
+jose~=1.0.0
+python-jose
+psycopg2-binary
+bcrypt
+pytest-cov
+mypy
+pylint
+flake8
